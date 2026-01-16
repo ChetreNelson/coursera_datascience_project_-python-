@@ -46,5 +46,5 @@ apple_share_price_data.reset_index(inplace=True)
 # plt.show()
 
 # printing first row volume cell
-
+i
 print(apple_share_price_data.iloc[0]['Volume'])
